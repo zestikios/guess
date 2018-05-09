@@ -1,3 +1,2 @@
-# guess
-guess the number game, ultra fun!
 
+guess the number game, ultra fun!
