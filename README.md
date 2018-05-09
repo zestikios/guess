@@ -1,3 +1,3 @@
 # guess
-guess the number
-blabla
+guess the number game, ultra fun!
+
